@@ -1,0 +1,8 @@
+*{margin:0; padding: 0;}
+body{padding: 20px;}
+a { text-decoration: none; color: gray; font-size: 12px;}
+a:hover { color: dodgerblue;}
+
+.container { border: 2px solid gray; padding: 10px; margin-bottom: 10px; }
+.title {font-size: 25px; font-weight: bold; margin: 10px 0;}
+.newsContents {background-color: beige; padding:5px 1px; margin-bottom: 5px;}
